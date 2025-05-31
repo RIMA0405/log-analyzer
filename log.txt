@@ -1,0 +1,5 @@
+INFO - Server started at 08:45
+WARNING - Memory usage is high
+ERROR - Unable to connect to database
+INFO - Scheduled backup completed
+ERROR - Disk full
